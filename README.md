@@ -1,2 +1,2 @@
 # Baekjoon_
-Beakjoon Online Judge
+Beakjoon Online Judge / groom challenge
